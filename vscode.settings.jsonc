@@ -242,5 +242,5 @@
   "window.titleBarStyle": "native",
   "window.menuBarVisibility": "toggle",
   "workbench.layoutControl.enabled": false,
-  "window.customTitleBarVisibility": "never",
+  "window.customTitleBarVisibility": "never"
 }
