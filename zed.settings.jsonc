@@ -161,6 +161,10 @@
 
     // Status bar
     "status_bar.background": "#121212",
+    
+    // Title bar
+    "title_bar.background": "111111ff",
+    "title_bar.inactive_background": "#151515ff",
 
     // Panel - Sidebar in VSCode
     "panel.background": "#121212",
